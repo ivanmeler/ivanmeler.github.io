@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+footer {
+    display: none;
+}
+
+html {
+    background-color: #181a1b !important;
+}
+html, body, textarea, select, button {
+    background-color: #181a1b;
+}
+html, body, textarea, select, button {
+    border-color: #e8e6e3;
+    color: #e8e6e3;
+}
+a {
+    color: #caddfc;
+}
+h1 {
+    color: #d6d5cb;
+}
+h2 {
+    color: #d6d5cb;
+}

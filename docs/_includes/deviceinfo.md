@@ -3,13 +3,14 @@
 
 # {{ page.title }} ({{ page.codename }})
 
-[Changelog for LineageOS-19.1]({{ "/changes/" | append: page.codename | append: ".html" | relative_url }})  
+
 
 {% assign ota_url = site.lineage_ota_base_url-19_1 | append: page.codename | append: ".json" %}
 {% fetch builds_raw ota_url %}
 {% json builds builds_raw %}
 {% assign build = builds.response[0] %}
 <a href="{{ build.url }}">Download {{ build.filename }}</a><br>
+[Changelog for LineageOS-19.1]({{ "/changes/" | append: page.codename | append: ".html" | relative_url }})  
 <a href="{{ device.xda_191 }}">XDA forum thread for LineageOS-19.1</a>
 
 {% assign ota_url = site.lineage_ota_base_url-18_1 | append: page.codename | append: ".json" %}
@@ -29,8 +30,9 @@
 {% endif %}
 
 {% if device.shipped_version == "Android 6.0" %}
-If you want to use Zygisk please use Magisk 24.1 for time being because of [regression in Magisk](https://github.com/topjohnwu/Magisk/issues/5395)
+If you want to use Zygisk please use Magisk 24.1 for time being due to [regression in Magisk](https://github.com/topjohnwu/Magisk/issues/5395)
 {% endif %}
+[Telegram support group]({{device.tg}})
 
 [<img src="{{ "/images/paypal.png" | relative_url}}" style="max-height: 100px">](https://www.paypal.me/ivanmeler)
 
