@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+
+domain: ivanmeler.github.io
+url: https://ivanmeler.github.io
+lineage_ota_base_url-19_1: https://raw.githubusercontent.com/ivanmeler/ota_provider/master/19.1/
+lineage_ota_base_url-18_1: https://raw.githubusercontent.com/ivanmeler/ota_provider/master/18.1/
+lineage_ota_base_url-17_1: https://raw.githubusercontent.com/ivanmeler/ota_provider/master/17.1/

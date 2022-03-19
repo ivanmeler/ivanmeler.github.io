@@ -1,0 +1,96 @@
+## 14.03.2022.
+- Fixed issue with keystore where apps would crash when invoking it (Security related apps mostly like signal and a lot of work apps)
+- Officially rebranded as 19.1
+- Updated changelog URL in updater app to point to a valid changelog
+- Fixed battery icon styles (Again..)
+- Cleaned up source
+- Performance and stability improvements
+- Updated some stock apps to math with new design
+- Synced with LineageOS source
+
+## 11.03.2022.
+- Merged March 2022. security and feature updates (Android 12L)
+- Fixed status bar network trafic monitor
+- Improved zram performance and enabled zram writeback
+- Cleaned up patches needed for build
+- Fixed network usage monitoring
+- Fixed per app network restrictions
+- Removed AudioFX which was causing issues
+- Decreased microphone gain a bit to mitigate in-call issues
+- Updated some device control apps like advanced display settings
+- Fixed s-pen pointer offset for note8
+- Imrpoved fp sensor response time
+- Added cgroup profile config
+- A lot of 'under the hood' changes
+- Performance improvements
+- Merged more previously missing los features
+- Implemented OTA updates
+
+## 10.02.2022
+- Merged February 2022 security update
+- Synced with LOS source
+
+## 09.02.2022.
+- Fixed bug where camera would stop working after prolonged use due to file-descriptiors being left open and overflowing
+- Fixed torch delay
+- Fixed issues with camera auto focus locking up the camera
+- Switched to half res boot anim which in turn gives us a slight boost in boot time
+- Removed arrow pointer (used for s-pen or mouse input) from non note8 builds and updated pointer for note8 build
+- Cleaned up unneeded drm entries in hidl manifest
+- Misc performance and stability improvements
+- Disabled CONFIG_RT_GROUP_SCHED in kernel in order to remove system hack we previously needed
+- Merged some previously missing LOS features
+- Synced with LOS source
+
+## 19.01.2022.
+- Switched to source built librilutils
+- Switched to source built libreference-ril
+- Switched to source built secril_config_svc used for dual/single sim detection
+- Updatd way samle rates are handled for bt headsets in call
+- Misc performance and stability improvements
+- Synced with LOS source
+
+## 07.01.2022.
+- Fixed volume panel location settings
+- Added Advanced Reboot
+- Added LiveDisplay entry into settings
+- Merged January 2022 Security Update
+- Merged most of previously missing LineageOS features
+- Misc performance and stability improvements
+- Synced with LOS source
+
+## 21.12.2021.
+- Fixed wireless display
+- Reduced logspam which should imrpove performance a bit
+- Misc performance and stability improvements
+- Synced with LOS source
+
+## 17.12.2021.
+- Merged r18 tag of Android 12 (SQ1D.211205.016.A1)
+- Synced with LOS source
+
+## 14.12.2021.
+- Disabled legacy configstore which got replaced with props
+- Switched to new AIDL Lights hal
+- Enabled zram swap
+- Misc performance and stability improvements
+- Synced with LOS source
+
+## 10.12.2021.
+- Fixed issue where system would experience random freezes in some apps
+
+## 09.12.2021.
+- Merged December 2021. Security update
+- Merged December 2021 pixel feature drop
+- Added signature spoofing support which can be used to add microg instead of gapps
+- Merged a lot of lineageos features that have been implemented
+- Fixed bluetooth sample rate while in call
+- Moved device specific ueventd rules to /system/vendor/etc
+- Uprevved fp hal to 2.3
+- Implemented fingerprint gestures
+- fixed system audio recording in apps such as screen recorders
+- performance and stability improvements
+
+
+## 03.12.2021.
+- Initial release

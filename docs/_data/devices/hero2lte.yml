@@ -1,0 +1,21 @@
+models:
+  - SM-G935F/FD (Global)
+  - SM-G935W8 (Canada)
+
+released: March 18, 2016
+chipset: Samsung Exynos 8890 (14nm)
+cpu: Octa-core (2.3GHz Quad-Core Mongoose M1 + 1.6GHz Quad-Core Cortex®-A53)
+gpu: Mali-T880 MP12
+ram: 4 GB
+shipped_version: Android 6.0
+storage: 32/64/128 GB UFS 2.0
+battery: 3600 mAh Li-Ion (non-removable)
+dimensions: 150.9 x 72.6 x 7.7 mm (5.94 x 2.86 x 0.30 in)
+display: 5.5 inches, 1440 x 2560 pixels, 16:9 ratio
+rear_camera:
+  - 12 MP, f/1.7, 26mm (wide), 1/2.55", 1.4µm, dual pixel PDAF, OIS
+front_camera: 5 MP, f/1.7, 22mm (wide), 1/4.1", 1.34µm
+sensors: Fingerprint, Accelerometer, Gyro, Proximity, Compass, Barometer, Heart Rate, SpO2
+xda_191: https://forum.xda-developers.com/t/lineageos-19-1-android-12l-signature-spoofing-ota-updates-for-s7-edge-exynos.4369001/
+xda_181: https://forum.xda-developers.com/t/rom-stable-signature-spoofing-microg-support-ota-updates-lineageos-18-1-for-s7-edge-exynos.4172727/
+xda_171: https://forum.xda-developers.com/t/stable-lineageos-17-1-for-s7-edge-build-34.3979973/
