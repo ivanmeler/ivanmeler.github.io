@@ -13,4 +13,4 @@ title: LineageOS builds for Samsung Exynos 8890/8895 devices
 {% endif %}
 {% endfor %}
 
-[<img src="{{ "/images/paypal.png" | relative_url}}" style="max-height: 100px">](https://www.paypal.me/ivanmeler)
+{% include paypal.md %}

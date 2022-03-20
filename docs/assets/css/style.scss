@@ -33,3 +33,15 @@ h2 {
 section {
     border-width: 0 0;
 }
+
+@media only screen and (max-width: 960px) {
+    header img {
+        max-width: 50px !important;
+    }
+    header p {
+        display: none;
+    }
+    p a img {
+        max-width: 150px !important;
+    }
+}

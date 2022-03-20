@@ -34,7 +34,7 @@ If you want to use Zygisk please use Magisk 24.1 for time being due to [regressi
 {% endif %}
 [Telegram support group]({{device.tg}})
 
-[<img src="{{ "/images/paypal.png" | relative_url}}" style="max-height: 100px">](https://www.paypal.me/ivanmeler)
+{% include paypal.md %}
 
 ## Device specifications
 

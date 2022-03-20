@@ -94,3 +94,5 @@
 
 ## 03.12.2021.
 - Initial release
+
+{% include paypal.md %}

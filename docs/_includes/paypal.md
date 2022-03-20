@@ -1,0 +1,1 @@
+[<img src="{{ "/images/paypal.png" | relative_url}}" style="max-height: 100px">](https://www.paypal.me/ivanmeler)
