@@ -10,13 +10,16 @@ footer {
 html {
     background-color: #181a1b !important;
 }
+
 html, body, textarea, select, button {
     background-color: #181a1b;
 }
+
 html, body, textarea, select, button {
     border-color: #e8e6e3;
     color: #e8e6e3;
 }
+
 a {
     color: #caddfc;
 }
@@ -25,4 +28,8 @@ h1 {
 }
 h2 {
     color: #d6d5cb;
+}
+
+section {
+    border-width: 0 0;
 }
