@@ -8,7 +8,7 @@ cpu: Octa-core (2.3GHz Quad-Core Mongoose M1 + 1.6GHz Quad-Core Cortex®-A53)
 gpu: Mali-T880 MP12
 ram: 4 GB
 shipped_version: Android 6.0
-storage: 32/64/128 GB UFS 2.0
+storage: 32/64 GB UFS 2.0
 battery: 3000 mAh Li-Ion (non-removable)
 dimensions: 142.4 x 69.6 x 7.9 mm (5.61 x 2.74 x 0.31 in)
 display: 5.1 inches, 1440 x 2560 pixels, 16:9 ratio
