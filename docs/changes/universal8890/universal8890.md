@@ -1,3 +1,11 @@
+## Upcoming changes
+- Switched to source built camera provider and removed samsung proprietary one
+- Upreved camera provider to 2.5
+- Fixed few selinux denials related to NFC trying to raad debug props
+- Removed floating_feature.xml which is unused on aosp
+- Disabled livedisplay by default 
+- ...
+
 ## 22.03.2022.
 - Added back configurable audio volume panel location
 - Speed up unlock with fingerprint

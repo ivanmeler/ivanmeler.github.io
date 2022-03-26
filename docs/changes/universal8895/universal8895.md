@@ -1,3 +1,8 @@
+## Upcoming changes
+- Upreved camera provider to 2.5
+- Disabled livedisplay by default 
+- ...
+
 ## 22.03.2022.
 - Added back configurable audio volume panel location
 - Speed up unlock with fingerprint
