@@ -1,4 +1,4 @@
-## Upcoming changes
+## Upcoming
 - Switched to source built camera provider and removed samsung proprietary one
 - Upreved camera provider to 2.5
 - Fixed few selinux denials related to NFC trying to raad debug props

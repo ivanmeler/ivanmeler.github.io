@@ -1,4 +1,4 @@
-## Upcoming changes
+## Upcoming
 - Upreved camera provider to 2.5
 - Disabled livedisplay by default 
 - ...
