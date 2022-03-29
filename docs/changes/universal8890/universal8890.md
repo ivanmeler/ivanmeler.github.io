@@ -1,10 +1,13 @@
-## Upcoming
+## 29.03.2022.
+- Drastically speed up app launch time [(more info about this here)](https://forum.xda-developers.com/t/lineageos-19-1-android-12l-signature-spoofing-ota-updates-for-s7-exynos.4368995/page-31#post-86657191)
+- Imrpoved performance and battery life by disabling some unnecessary logging
 - Switched to source built camera provider and removed samsung proprietary one
 - Upreved camera provider to 2.5
 - Fixed few selinux denials related to NFC trying to raad debug props
 - Removed floating_feature.xml which is unused on aosp
-- Disabled livedisplay by default 
-- ...
+- Disabled livedisplay by default
+- Cleaned up extra dependencies used for compiling 
+- Synced with LOS source
 
 ## 22.03.2022.
 - Added back configurable audio volume panel location
