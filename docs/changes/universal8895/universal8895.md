@@ -1,7 +1,10 @@
-## Upcoming
+## 31.03.2022.
+- Improved app launch speed
+- Improved general performance and battery life
 - Upreved camera provider to 2.5
-- Disabled livedisplay by default 
-- ...
+- Disabled livedisplay by default
+- Cleaned up extra dependencies used for compiling
+- Synced with LOS source
 
 ## 22.03.2022.
 - Added back configurable audio volume panel location
