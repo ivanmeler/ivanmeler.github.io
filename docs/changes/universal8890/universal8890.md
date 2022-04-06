@@ -1,3 +1,11 @@
+## 06.04.2022.
+- Merged April 2022. Security update
+- Enabled new LineageOS icons (you might have to clear launcher cache for them to show up)
+- Fixed issue where galery app would show black text on black background
+- Fixed issue where unlock sound would sometimes play twice
+- Misc performance and stability improvements
+- Synced with LineageOS source
+
 ## 29.03.2022.
 - Drastically speed up app launch time [(more info about this here)](https://forum.xda-developers.com/t/lineageos-19-1-android-12l-signature-spoofing-ota-updates-for-s7-exynos.4368995/page-31#post-86657191)
 - Imrpoved performance and battery life by disabling some unnecessary logging
