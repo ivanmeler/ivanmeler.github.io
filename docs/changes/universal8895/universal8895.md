@@ -1,3 +1,11 @@
+## 06.04.2022.
+- Merged April 2022. Security update
+- Enabled new LineageOS icons (you might have to clear launcher cache for them to show up)
+- Fixed issue where galery app would show black text on black background
+- Fixed issue where unlock sound would sometimes play twice
+- Misc performance and stability improvements
+- Synced with LineageOS source
+
 ## 31.03.2022.
 - Improved app launch speed
 - Improved general performance and battery life
