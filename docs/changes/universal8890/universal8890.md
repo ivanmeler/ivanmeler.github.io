@@ -1,3 +1,10 @@
+## 08.04.2022.
+- Fixed extended volume panel
+- Updated icons for few more stock apps
+- Cleaned up patches further
+- Misc peroformance improvements
+- Synced with LineageOS source
+
 ## 06.04.2022.
 - Merged April 2022. Security update
 - Enabled new LineageOS icons (you might have to clear launcher cache for them to show up)
