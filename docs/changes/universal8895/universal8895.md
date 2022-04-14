@@ -1,3 +1,23 @@
+## 14.04.2022.
+- Switched to new audio hal that supports interface v5
+- Fixed usb audio
+- Fixed audio in screen recoidng recording and wireless display sharing
+- Improved bluetooth audio stability and compatibility
+- Started rewriting sepolicy
+- Updated wifi firmware
+- Merged latest available kernel source from samsung(G955FXXUCDUD1/G950FXXUCDUD1/N950FXXSGDUG7)
+- Merged latest blobs available from samsung(G955FXXUCDUD1/G950FXXUCDUD1/N950FXXSGDUG7)
+- Implemented fast charging toggle in battery settings
+- Removed unneeded libmemset shim
+- Added support for user configurable wireless charging sound
+- Added switch to disable vibration on fp unlock
+- Removed non-functional srgb toggle from dev options
+- Removed liboemcrypto.so to fix L3 drm playback
+- updated LPM binaries
+- Cleaned up device tree and kernel repo
+- A lot of under the hood performacne and stability improvements
+- Synced with LineageOS source
+
 ## 08.04.2022.
 - Fixed extended volume panel
 - Fixed build fingerprint for dream2lte and greatlte that was causing safetynet to fail
