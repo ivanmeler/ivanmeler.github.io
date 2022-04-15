@@ -1,3 +1,9 @@
+## 15.04.2022.
+- Updated sepolicy and merged updated common samsung_slsi sepolicy
+- Increased microphone gain while recording media (Camcorder, voice recording etc.)
+- Added option to disable vibration feedback on fingerprint auth
+- Synced with LineageOS source
+
 ## 08.04.2022.
 - Fixed extended volume panel
 - Updated icons for few more stock apps
