@@ -1,3 +1,9 @@
+## 18.04.2022.
+- Fixed bug wehre vibrations were too low on some devices due to inintensity being set to 0
+- Fixed bug where apps would show square popup "animation" when launching from icon instead of roudned one
+- Cleaned up build patches
+- Synced with LineageOS source
+
 ## 15.04.2022.
 - Updated sepolicy and merged updated common samsung_slsi sepolicy
 - Increased microphone gain while recording media (Camcorder, voice recording etc.)
