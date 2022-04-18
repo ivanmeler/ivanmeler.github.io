@@ -1,3 +1,17 @@
+## 18.04.2022.
+- Fixed limit for enrolling fingerprint and set it to 4 like on stock
+- Improved wifi speed
+- Improved battery life
+- Fixed auto brightness debounce time to prevent abrupt changes
+- Added support for more mDNIe display profiles
+- Improved SQLite performance
+- Added vibration intensity controls (Under accesibility settings)
+- Added multi user support
+- Added surfaceflinger and few other services to pinner to keep them in ram
+- Enabled 4g+ icon when connected to 4g+ network
+- Cleaned up patches used for build
+- Synced with LineageOS source
+
 ## 14.04.2022.
 - Switched to new audio hal that supports interface v5
 - Fixed usb audio
