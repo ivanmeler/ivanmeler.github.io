@@ -13,4 +13,4 @@ title: LineageOS builds for Samsung Exynos 8890/8895 devices
 {% endif %}
 {% endfor %}
 
-{% include paypal.md %}
+{% include donations.md %}

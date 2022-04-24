@@ -35,7 +35,7 @@ If you want to use Zygisk please use Magisk 24.1 for time being due to [regressi
 {% endif %}
 [Telegram support group]({{device.tg}})
 
-{% include paypal.md %}
+{% include donations.md %}
 
 ## Device specifications
 
