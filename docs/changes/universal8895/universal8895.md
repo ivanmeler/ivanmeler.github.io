@@ -1,3 +1,8 @@
+## 26.04.2022.
+- Included support for High touch sensitivity (glove mode)
+- Cleaned up vintf manifest and added target level to it
+- Synced with LineageOS source (Same functionas as offical builds of 19.1 have + some extras)
+
 ## 18.04.2022.
 - Fixed limit for enrolling fingerprint and set it to 4 like on stock
 - Improved wifi speed
