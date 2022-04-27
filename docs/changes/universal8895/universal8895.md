@@ -1,3 +1,6 @@
+## 27.04.2022.
+- Removed High touch sensitivity (glove mode) support from S8+ as it lacs support for it
+
 ## 26.04.2022.
 - Included support for High touch sensitivity (glove mode)
 - Cleaned up vintf manifest and added target level to it
