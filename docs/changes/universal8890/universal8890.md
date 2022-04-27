@@ -1,3 +1,8 @@
+## 27.04.2022.
+- Removed libbfqio dependency from hwc since it was dropped from lineageos 19.1
+- Misc performance and stability improvements
+- Synced with LineageOS source (same base as official builds + some extras)
+
 ## 18.04.2022.
 - Fixed bug wehre vibrations were too low on some devices due to inintensity being set to 0
 - Fixed bug where apps would show square popup "animation" when launching from icon instead of roudned one
