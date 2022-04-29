@@ -1,5 +1,5 @@
 ## 27.04.2022.
-- Removed High touch sensitivity (glove mode) support from S8+ as it lacs support for it
+- Removed High touch sensitivity (glove mode) support from S8+ build as device lacks proper support for it
 
 ## 26.04.2022.
 - Included support for High touch sensitivity (glove mode)
