@@ -1,3 +1,10 @@
+## 07.05.2022.
+- Improved battery usage logging for display
+- Added QR code reader to camera app (Long hold icon and launch it from context menu)
+- Misc performance and stability improvements
+- Merged May 2022. security update
+- Synced with LineageOS source
+
 ## 27.04.2022.
 - Removed libbfqio dependency from hwc since it was dropped from lineageos 19.1
 - Misc performance and stability improvements
