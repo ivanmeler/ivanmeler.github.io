@@ -1,3 +1,16 @@
+## 06.05.2022.
+- Improved bluetooth in call audio sample rate handling
+- Added FB notifier callbacks to kernel
+- Added always on display support
+- Switched to new power hal with custom fine tuned power profile
+- Improved battery usage logging for display
+- Added QR code reader to camera app (Long hold icon and launch it from context menu)
+- Disabled unneeded debugging in kernel that was slowing things down
+- A lot of performance stability and battery life improvements
+- Cleaned up device tree
+- Merged May 2022. Security update
+- Synced with LineageOS source
+
 ## 27.04.2022.
 - Removed High touch sensitivity (glove mode) support from S8+ build as device lacks proper support for it
 
