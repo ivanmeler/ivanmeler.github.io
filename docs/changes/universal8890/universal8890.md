@@ -1,3 +1,11 @@
+## 10.05.2022.
+- Switched to new libperfmgr power hal which can be configured from /system/vendor/etc/powerhints.json
+- Adapted DT2W to new power hal
+- Muted phone services gps notif (Thanks google really appreciate you breaking random things for everyone)
+- Improved battery life and performance
+- Cleaned up all of leftover patches that were used by legacy power hal
+- Synced with LineageOS source
+
 ## 07.05.2022.
 - Improved battery usage logging for display
 - Added QR code reader to camera app (Long hold icon and launch it from context menu)
