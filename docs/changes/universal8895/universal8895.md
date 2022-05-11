@@ -1,3 +1,12 @@
+## 11.05.2022.
+- Adapted DT2W support (double tap to wake)
+- Muted phone services gps notif (Thanks google really appreciate you breaking random things for everyone)
+- Improved battery life and performance
+- Fixed issue where some devices would not wake up touch after being in sleep mode
+- Cleaned up all of leftover patches that were used by legacy power hal
+- Synced with LineageOS source
+- Released source on https://github.com/8890q/
+
 ## 06.05.2022.
 - Improved bluetooth in call audio sample rate handling
 - Added FB notifier callbacks to kernel
