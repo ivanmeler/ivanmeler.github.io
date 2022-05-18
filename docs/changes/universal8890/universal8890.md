@@ -1,3 +1,12 @@
+## 18.05.2022.
+- Added QR code reader quick settings toggle
+- Improved device performance and stability
+- Added Custom low power mode power profile for cpu
+- Improved A-GNSS (A-GPS) Lock speed
+- Exposed device hw revision to settings
+- Improved fast/slow charger detection
+- Synced with LineageOS source
+
 ## 10.05.2022.
 - Switched to new libperfmgr power hal which can be configured from /system/vendor/etc/powerhints.json
 - Adapted DT2W to new power hal
