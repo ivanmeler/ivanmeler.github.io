@@ -1,3 +1,16 @@
+## 19.05.2022.
+- Added WireGuard kernel implementation
+- Added QR code reader quick settings toggle
+- Improved device performance and stability
+- Improved A-GNSS (A-GPS) Lock speed
+- Exposed device hw revision to settings
+- Improved fast/slow charger detection
+- Improved double tap to wake detection on some devices
+- Remaped bixby to menu so long hold, short hold and wake actions work
+- Long hold on bixby is now handling multitasking
+- Improved bluetooth stability
+- Synced with LineageOS source
+
 ## 11.05.2022.
 - Adapted DT2W support (double tap to wake)
 - Muted phone services gps notif (Thanks google really appreciate you breaking random things for everyone)
