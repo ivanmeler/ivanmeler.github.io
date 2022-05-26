@@ -1,3 +1,9 @@
+## 26.05.2022.
+- Added shim for setLayerBuffer function in hwc, further down the line said shim will be used to fix hwc
+- Further improvements for dt2w on devices that previously had issues with it
+- Removed more unneeded patches for device support
+- Synced with LineageOS source
+
 ## 19.05.2022.
 - Added WireGuard kernel implementation
 - Added QR code reader quick settings toggle
