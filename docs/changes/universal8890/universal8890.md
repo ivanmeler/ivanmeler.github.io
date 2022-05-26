@@ -1,3 +1,12 @@
+## 26.05.2022.
+- Updated libexynosdisplay from BSP to comply with some android 12 changes
+- Removed unused build.prop entries
+- Fixed few selinux denials related to hwc props
+- Improved UI performance and stability
+- Cleaned up source
+- Removed more unneeded patches for device support
+- Synced with LineageOS source
+
 ## 18.05.2022.
 - Added QR code reader quick settings toggle
 - Improved device performance and stability
