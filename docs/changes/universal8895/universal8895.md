@@ -1,3 +1,11 @@
+## 27.05.2022.
+- Added Dolby audio effects support (from stock) (Access it from quick settings)
+- Fixed bixby button mapping that got broken yesterday
+- Cleaned up kernel dt2w patches
+- Removed broken soundtrigger hal that was causing issues with "Ok Google" detection
+- Removed unused audio.playback_record hal
+- Synced with LineageOS source
+
 ## 26.05.2022.
 - Added shim for setLayerBuffer function in hwc, further down the line said shim will be used to fix hwc
 - Further improvements for dt2w on devices that previously had issues with it
