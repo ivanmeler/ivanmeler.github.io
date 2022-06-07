@@ -1,3 +1,12 @@
+## 07.06.2022.
+- Merged June 2022. security update
+- Merged June 2022. pixel feature drop (SQ3A.220605.009.A1)
+- Improved in-call audio quality drastically 
+- Addressed few more selinux denials
+- Improved general stability and performance
+- Cleaned up source
+- Synced with LineageOS source
+
 ## 26.05.2022.
 - Updated libexynosdisplay from BSP to comply with some android 12 changes
 - Removed unused build.prop entries
