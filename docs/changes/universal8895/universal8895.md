@@ -1,3 +1,9 @@
+## 08.06.2022.
+- Merged June 2022. security update
+- Merged June 2022. pixel feature drop (SQ3A.220605.009.A1)
+- Cleaned up source
+- Synced with LineageOS source
+
 ## 27.05.2022.
 - Added Dolby audio effects support (from stock) (Access it from quick settings)
 - Fixed bixby button mapping that got broken yesterday
