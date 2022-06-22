@@ -1,3 +1,9 @@
+## 22.06.2022.
+- Fixed issues with keystore present in a lot of bank/secure apps like binance
+- Fixed issue where setupwizard would crash when adding fingerprint due to bug in keystore
+- Cleaned up patches required for build and removed unneeded ones
+- Synced with LineageOS source
+
 ## 08.06.2022.
 - Merged June 2022. security update
 - Merged June 2022. pixel feature drop (SQ3A.220605.009.A1)

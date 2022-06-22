@@ -31,8 +31,7 @@
 {% endif %}
 
 {% if device.shipped_version == "Android 6.0" %}
-If you want to use Zygisk please use Magisk 24.1 or latest Magisk 25 Beta for the time being due to [regression in Magisk 24.3](https://github.com/topjohnwu/Magisk/issues/5395).  
-This will be fixed in next stable Magisk version (25.x)
+If you want to use Zygisk in magisk please use latest stable build (Magisk 25.1 or higher), Magisk 24.3 had issues with Zygisk on some devices including s7.  
 {% endif %}
 [Telegram support group]({{device.tg}})
 
