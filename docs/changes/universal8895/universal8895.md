@@ -1,4 +1,4 @@
-## 22.06.2022.
+## 23.06.2022.
 - Fixed issues with keystore present in a lot of bank/secure apps like binance
 - Fixed issue where setupwizard would crash when adding fingerprint due to bug in keystore
 - Cleaned up patches required for build and removed unneeded ones
