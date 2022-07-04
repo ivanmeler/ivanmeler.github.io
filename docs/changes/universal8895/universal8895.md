@@ -1,3 +1,17 @@
+## 05.07.2022.
+- Improved LMKD behavior
+- Improved power hal behaviour and performance boosting
+- Tuned surfaceflinger behavior
+- Improved ui performance further
+- Fixed more keystore issues
+- Synced with LineageOS source
+
+## 04.07.2022.
+- Fixed HWC
+- Improved gcam ports compatibility and post processing speed
+- Major battery life and ui performance imporvements
+- Synced with LineageOS source
+
 ## 23.06.2022.
 - Fixed issues with keystore present in a lot of bank/secure apps like binance
 - Fixed issue where setupwizard would crash when adding fingerprint due to bug in keystore
