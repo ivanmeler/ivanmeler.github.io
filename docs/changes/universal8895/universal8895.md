@@ -1,3 +1,8 @@
+## 07.07.2022.
+- Reverted some changes that caused previous ui performance regression
+- Merged July 2022. Security update
+- Synced with LineageOS source
+
 ## 05.07.2022.
 - Improved LMKD behavior
 - Improved power hal behaviour and performance boosting
