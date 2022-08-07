@@ -1,3 +1,7 @@
+## 07.08.2022.
+- Merged August 2022. Security update
+- Synced with LineageOS source
+
 ## 07.07.2022.
 - Merged July 2022. Security update
 - Fixed more keystore issues
