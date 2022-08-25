@@ -10,7 +10,7 @@
 {% json builds builds_raw %}
 {% assign build = builds.response[0] %}
 <a href="{{ build.url }}">Download {{ build.filename }}</a><br>
-<a href="{{ device.xda_200 }}">XDA forum thread for LineageOS-19.1</a><br>
+<a href="{{ device.xda_200 }}">XDA forum thread for LineageOS-20.0</a><br>
 {% endif %}
 
 {% assign ota_url = site.lineage_ota_base_url-19_1 | append: page.codename | append: ".json" %}
