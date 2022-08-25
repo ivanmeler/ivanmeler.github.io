@@ -3,7 +3,12 @@
 
 # {{ page.title }} ({{ page.codename }})
 
-
+{% assign ota_url = site.lineage_ota_base_url-20_0 | append: page.codename | append: ".json" %}
+{% fetch builds_raw ota_url %}
+{% json builds builds_raw %}
+{% assign build = builds.response[0] %}
+<a href="{{ build.url }}">Download {{ build.filename }}</a><br>
+<a href="{{ device.xda_200 }}">XDA forum thread for LineageOS-19.1</a><br>
 
 {% assign ota_url = site.lineage_ota_base_url-19_1 | append: page.codename | append: ".json" %}
 {% fetch builds_raw ota_url %}

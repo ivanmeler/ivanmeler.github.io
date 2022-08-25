@@ -15,10 +15,11 @@ display: 6.3 inches, 1440 x 2960 pixels, 18.5:9 ratio
 rear_camera:
  - 12 MP, f/1.7, 26mm (wide), 1/2.55", 1.4µm, dual pixel PDAF, OIS
  - 12 MP, f/2.4, 52mm (telephoto), 1/3.6", 1.0µm, AF, OIS, 2x optical zoom
-front_camera: 
+front_camera:
  - 8 MP, f/1.7, 25mm (wide), 1/3.6", 1.22µm, AF
  - 2 MP (dedicated iris scanner camera)
 sensors: Iris scanner,Fingerprint, Accelerometer, Gyro, Proximity, Compass, Barometer, Heart Rate, SpO2
+xda_200: https://forum.xda-developers.com/t/
 xda_191: https://forum.xda-developers.com/t/lineageos-19-1-android-12l-signature-spoofing-ota-updates-for-s8-s8-note8.4370377/
 xda_181: https://forum.xda-developers.com/t/rom-signature-spoofing-microg-support-ota-updates-lineageos-18-1-for-s8-s8-note8.4332031/
 tg: https://t.me/exy8895dev

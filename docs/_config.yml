@@ -3,6 +3,7 @@ theme: jekyll-theme-minimal
 logo: /images/Android_symbol_green_RGB.png
 domain: ivanmeler.github.io
 url: https://ivanmeler.github.io
+lineage_ota_base_url-20_0: https://raw.githubusercontent.com/ivanmeler/ota_provider/master/20.0/
 lineage_ota_base_url-19_1: https://raw.githubusercontent.com/ivanmeler/ota_provider/master/19.1/
 lineage_ota_base_url-18_1: https://raw.githubusercontent.com/ivanmeler/ota_provider/master/18.1/
 lineage_ota_base_url-17_1: https://raw.githubusercontent.com/ivanmeler/ota_provider/master/17.1/
