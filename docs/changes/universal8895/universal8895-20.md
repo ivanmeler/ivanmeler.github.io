@@ -1,3 +1,9 @@
+## 05.09.2022.
+- Fixed camera on Note 8
+- Most of lineageos features have been implemented
+- Misc performance and stability improvements
+- Synced with LineageOS source
+
 ## 01.09.2022.
 - Fixed bluetooth audio
 - Upreved audio hal to 7.1 from 5.0
