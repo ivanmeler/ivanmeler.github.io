@@ -1,3 +1,6 @@
+## 06.09.2022.
+- Fixed home button wake
+
 ## 05.09.2022.
 - Fixed camera on Note 8
 - Most of lineageos features have been implemented
