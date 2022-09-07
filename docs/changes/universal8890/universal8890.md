@@ -1,3 +1,8 @@
+## 07.09.2022.
+- Merged September 2022. Security update
+- Updated chromium webview to 105.0.5195.79
+- Synced with LineageOS source
+
 ## 07.08.2022.
 - Merged August 2022. Security update
 - Synced with LineageOS source
