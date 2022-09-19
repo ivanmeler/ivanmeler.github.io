@@ -1,3 +1,10 @@
+## 19.09.2022.
+- Updated kernel build flags for new build enviroment
+- Misc performance and stability improvements
+- Switched to source built Bluetooth interface
+- Cleaned up device source
+- Synced with LineageOS source
+
 ## 07.09.2022.
 - Merged September 2022. Security update
 - Updated chromium webview to 105.0.5195.79

@@ -1,3 +1,10 @@
+## 19.09.2022.
+- Removed libhidl hacks and updated libs that required it in past
+- Switched to new audio service to remove need for hacks in original one
+- Updated kernel build flags for new build enviroment
+- Misc performance and stability improvements
+- Synced with LineageOS source
+
 ## 08.09.2022.
 - Merged September 2022. Security update
 - Updated chromium webview to 105.0.5195.79
