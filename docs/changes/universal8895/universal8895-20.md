@@ -1,3 +1,11 @@
+## 21.09.2022.
+- Switched to Generic FunctionFS usb backend (We used legacy functionfs in past)
+- Updated USB hal
+- Usb hal will now give notifications on port being wet instead of just disabling it without notice
+- Merged few more missing BPF commits to kernel
+- Unpinned deprecated updatable media apex jar from ram
+- Synced with LineageOS source
+
 ## 19.09.2022.
 - Updated kernel build flags for new build enviroment
 - Misc performance and stability improvements
