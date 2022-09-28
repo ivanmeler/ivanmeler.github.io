@@ -1,3 +1,9 @@
+## 28.09.2022.
+- Adressed missing symbol in advanced camera effects lib that wouldnt launch without them
+- Allowed system to override some bluetooth props
+- Performance and stability improvements
+- Synced with LineageOS source (Almost all of lineageos features should be there and work now)
+
 ## 21.09.2022.
 - Switched to Generic FunctionFS usb backend (We used legacy functionfs in past)
 - Updated USB hal
