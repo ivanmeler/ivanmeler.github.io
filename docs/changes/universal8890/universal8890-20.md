@@ -1,3 +1,10 @@
+## 28.09.2022.
+- Added button backlight control
+- Unpinned deprecated updatable media apex jar from ram
+- Allowed system to override some bluetooth props
+- Performance and stability improvements
+- Synced with LineageOS source (Almost all of lineageos features should be there and work now)
+
 ## 19.09.2022.
 - Removed libhidl hacks and updated libs that required it in past
 - Switched to new audio service to remove need for hacks in original one
