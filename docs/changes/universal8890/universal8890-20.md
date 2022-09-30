@@ -1,3 +1,11 @@
+## 01.10.2022.
+- Fixed samsungs bug with gps where it would start acting up over time
+due to time rollover bug
+- Implemented gesture navigation settings
+- Removed leftover unused blobs
+- Updated neural network interface lib
+- Synced with LineageOS source
+
 ## 28.09.2022.
 - Added button backlight control
 - Unpinned deprecated updatable media apex jar from ram

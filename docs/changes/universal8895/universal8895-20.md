@@ -1,3 +1,8 @@
+## 01.10.2022.
+- Fixed samsungs bug with gps where it would start acting up over time
+due to time rollover bug
+- Synced with LineageOS source
+
 ## 28.09.2022.
 - Adressed missing symbol in advanced camera effects lib that wouldnt launch without them
 - Allowed system to override some bluetooth props
