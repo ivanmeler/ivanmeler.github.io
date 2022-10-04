@@ -1,3 +1,11 @@
+## 04.10.2022.
+- Merged october 2022. Security update
+- Improved UI performance
+- Fixed issues that were caused by nav bar changes
+- Improved stock camera app
+- Cleaned up list of patches needed to reproduce builds
+- Synced with LineageOS source
+
 ## 01.10.2022.
 - Fixed samsungs bug with gps where it would start acting up over time
 due to time rollover bug
