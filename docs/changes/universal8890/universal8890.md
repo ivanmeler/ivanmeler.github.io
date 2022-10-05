@@ -1,3 +1,9 @@
+## 05.10.2022.
+- Merged october 2022. Security update
+- Fixed samsungs bug with gps where it would start acting up over time
+due to time rollover bug
+- Synced with LineageOS source
+
 ## 07.09.2022.
 - Merged September 2022. Security update
 - Updated chromium webview to 105.0.5195.79

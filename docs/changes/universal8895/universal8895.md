@@ -1,3 +1,12 @@
+## 05.10.2022.
+- Merged october 2022. Security update
+- Fixed samsungs bug with gps where it would start acting up over time
+due to time rollover bug
+- Adressed missing symbol in advanced camera effects lib that wouldnt launch without them
+- Performance and stability improvements
+- Switched to Generic FunctionFS usb backend (We used legacy functionfs in past)
+- Synced with LineageOS source
+
 ## 07.09.2022.
 - Switched to a rebased kernel
 - Updated kernel to 4.4.302
