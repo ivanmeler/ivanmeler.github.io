@@ -1,3 +1,10 @@
+## 08.11.2022
+- Merged November 2022. Security update
+- Switched to new AIDL usb hal
+- Switched kernel back to clang toolchain
+- Misc performance and stability improvements
+- Synced with LineageOS source
+
 ## 04.10.2022.
 - Merged october 2022. Security update
 - Improved UI performance
