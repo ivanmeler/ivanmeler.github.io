@@ -1,3 +1,8 @@
+## 09.11.2022.
+- Merged November 2022. Security update
+- Switched to hidl usb hal from hw/samsung
+- Synced with LineageOS source
+
 ## 05.10.2022.
 - Merged october 2022. Security update
 - Fixed samsungs bug with gps where it would start acting up over time
