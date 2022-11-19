@@ -1,3 +1,8 @@
+## 19.11.2022.
+- Cleaned up patches used for non-BPF kernel
+- Performance stability and battery life improvements
+- Synced with LineageOS source
+
 ## 09.11.2022
 - Merged November 2022. Security update
 - Misc performance and stability improvements
