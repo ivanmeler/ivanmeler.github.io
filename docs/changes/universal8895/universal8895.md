@@ -1,3 +1,7 @@
+## 07.12.2022.
+- Merged December 2022. Security update
+- Synced with LineageOS source
+
 ## 09.11.2022.
 - Merged November 2022. Security update
 - Switched to hidl usb hal from hw/samsung
