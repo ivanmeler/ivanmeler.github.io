@@ -1,3 +1,8 @@
+## 09.12.2022.
+- Merged December 2022. Security update
+- Merged android QPR1 December update
+- Synced with LineageOS source
+
 ## 08.11.2022
 - Merged November 2022. Security update
 - Switched to new AIDL usb hal
