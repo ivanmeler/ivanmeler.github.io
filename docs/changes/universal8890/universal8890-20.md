@@ -1,3 +1,8 @@
+## 09.12.2022.
+- Merged December 2022. Security update
+- Merged android QPR1 December update
+- Synced with LineageOS source
+
 ## 19.11.2022.
 - Cleaned up patches used for non-BPF kernel
 - Performance stability and battery life improvements
