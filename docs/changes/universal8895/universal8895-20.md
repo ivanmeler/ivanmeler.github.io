@@ -1,3 +1,8 @@
+## 15.12.2022.
+- Added back some features that were missing from QPR1
+- Misc performance and stability improvements
+- Synced with LineageOS source
+
 ## 09.12.2022.
 - Merged December 2022. Security update
 - Merged android QPR1 December update
