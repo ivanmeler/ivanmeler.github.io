@@ -18,7 +18,7 @@ Builds will be updated once a month to merge latest security updates and other c
 - Rom will dynamically chose to encrypt or not to encrypt data based on installed recovery (if TWRP is installed encryption will be disabled)<br>
 - Merged December 2022. Security update<br>
 - Synced with LineageOS source<br><br><br>
-</details>
+</details><br>
 
 {% assign ota_url = "https://raw.githubusercontent.com/ivanmeler/ota_provider/master/20.0/beyond2lte.json" %}
 {% fetch builds_raw ota_url %}
