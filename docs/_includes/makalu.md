@@ -11,13 +11,13 @@ Builds will be updated once a month to merge latest security updates and other c
 <details>
   <summary>Changelog</summary>
 - Added support for signature spoofing<br>
-- Add f2ds support for internal storage<br>
 - OTA Updated built-in<br>
+- Vendor partition is using ext4 so it can be modified by user<br>
 - Kernel side wireguard support<br>
 - Works on latest and older 12 firmwares<br>
 - Rom will dynamically chose to encrypt or not to encrypt data based on installed recovery (if TWRP is installed encryption will be disabled)<br>
 - Merged December 2022. Security update<br>
-- Synced with LineageOS source<br>
+- Synced with LineageOS source<br><br><br>
 </details>
 
 {% assign ota_url = "https://raw.githubusercontent.com/ivanmeler/ota_provider/master/20.0/beyond2lte.json" %}
