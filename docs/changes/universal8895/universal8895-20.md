@@ -1,3 +1,9 @@
+## 04.01.2023.
+- Merged January 2023. Security update
+- Camera app improvements
+- Misc performance and stability improvements
+- Synced with LineageOS source
+
 ## 15.12.2022.
 - Added back some features that were missing from QPR1
 - Misc performance and stability improvements
