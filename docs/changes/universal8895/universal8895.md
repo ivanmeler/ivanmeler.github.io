@@ -1,3 +1,8 @@
+## 05.01.2023.
+- Merged January 2023. Security update
+- Misc performance and stability improvements
+- Synced with LineageOS source
+
 ## 07.12.2022.
 - Merged December 2022. Security update
 - Synced with LineageOS source
