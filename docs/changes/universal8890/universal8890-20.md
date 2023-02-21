@@ -1,3 +1,9 @@
+## 21.02.2023.
+- Further Improved UI performance
+- Misc performance and stability improvements
+- Began process of adding Note FE/7 support to universal8890-common codebase
+- Synced with LineageOS source
+
 ## 08.02.2023.
 - Merged February 2023. Security update
 - Improved UI performance
