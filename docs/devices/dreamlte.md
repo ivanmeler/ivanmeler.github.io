@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 3
+order: 4
 title: Samsung Galaxy S8
 codename: dreamlte
 ---

@@ -12,6 +12,8 @@
 <a href="{{ device.xda_200 }}">XDA forum thread for LineageOS-20.0</a><br>
 [Changelog for LineageOS-20.0]({{ "/changes/" | append: page.codename | append: "-20.html" | relative_url }})
 
+{% if device.codename != "gracerlte" %}
+
 {% assign ota_url = site.lineage_ota_base_url-19_1 | append: page.codename | append: ".json" %}
 {% fetch builds_raw ota_url %}
 {% json builds builds_raw %}
@@ -37,8 +39,6 @@
 <a href="{{ device.xda_171 }}">XDA forum thread for LineageOS-17.1</a>
 {% endif %}
 
-{% if device.shipped_version == "Android 6.0" %}
-If you want to use Zygisk in magisk please use latest stable build (Magisk 25.1 or higher), Magisk 24.3 had issues with Zygisk on some devices including s7.  
 {% endif %}
 [Telegram support group]({{device.tg}})
 

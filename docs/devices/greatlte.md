@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 5
+order: 6
 title: Samsung Galaxy Note 8
 codename: greatlte
 ---

@@ -1,0 +1,24 @@
+models:
+  - SM-N935F/K/L/S (Note FE)
+  - SM-G930F/K/L/S (Note7)
+
+released: August 19, 2016 Note 7 | July 1, 2017 Note FE
+chipset: Samsung Exynos 8890 (14nm)
+cpu: Octa-core (2.3GHz Quad-Core Mongoose M1 + 1.6GHz Quad-Core Cortex®-A53)
+gpu: Mali-T880 MP12
+ram: 4 GB
+shipped_version: 
+ - Android 6.0 Note7 | Android 7.1.1 Note FE
+storage: 64 GB UFS 2.0
+battery: 3500 mAh(Note7) | 3200mAh Note FE Li-Ion (non-removable)
+dimensions: 153.5 x 73.9 x 7.9 mm (6.04 x 2.91 x 0.31 in)
+display: 5.7 inches, 1440 x 2560 pixels, 16:9 ratio
+rear_camera:
+ - 12 MP, f/1.7, 26mm (wide), 1/2.55", 1.4µm, dual pixel PDAF, OIS
+front_camera: 
+ - 5 MP, f/1.7, 22mm (wide), 1/4.1", 1.34µm
+ - 2 MP (dedicated iris scanner camera)
+sensors: Iris scanner, Fingerprint, Accelerometer, Gyro, Proximity, Compass, Barometer, Heart Rate, SpO2
+xda_200: https://forum.xda-developers.com/
+tg: https://t.me/+Pw_EPmXMmzDZIME-
+codename: gracerlte

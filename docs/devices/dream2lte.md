@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 4
+order: 5
 title: Samsung Galaxy S8+
 codename: dream2lte
 ---
