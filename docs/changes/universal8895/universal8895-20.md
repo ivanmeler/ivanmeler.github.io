@@ -1,5 +1,5 @@
 ## 23.02.2023.
-- Fixed s-pen system reboot issued on Note8
+- Fixed s-pen system reboot issues on Note8
 - improved UI performance
 - Synced with LineageOS source
 
