@@ -1,3 +1,6 @@
+## 23.02.2023
+- First public Note FE/7 builds
+
 ## 21.02.2023.
 - Further Improved UI performance
 - Misc performance and stability improvements

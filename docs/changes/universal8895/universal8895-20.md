@@ -1,3 +1,8 @@
+## 23.02.2023.
+- Fixed s-pen system reboot issued on Note8
+- improved UI performance
+- Synced with LineageOS source
+
 ## 08.02.2023.
 - Merged February 2023. Security update
 - Improved UI performance
