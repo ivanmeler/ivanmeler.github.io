@@ -1,3 +1,10 @@
+## 20.03.2023.
+- Merged March 2023. Security update
+- Misc performance and stability improvements
+- Merged QPR2
+- Added aptX HD support
+- Synced with LineageOS source
+
 ## 23.02.2023
 - First public Note FE/7 builds
 
