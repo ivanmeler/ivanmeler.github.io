@@ -1,3 +1,6 @@
+## 21.03.2023.
+- Fixed double tap to wake
+
 ## 20.03.2023.
 - Merged March 2023. Security update
 - Misc performance and stability improvements
