@@ -1,3 +1,8 @@
+## 11.04.2023.
+- Merged April 2023. Security update
+- Fixed some issues introduced in QPR2
+- Synced with LineageOS source
+
 ## 21.03.2023.
 - Merged March 2023. Security update
 - Misc performance and stability improvements
