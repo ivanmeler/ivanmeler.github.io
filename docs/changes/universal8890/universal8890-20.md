@@ -1,3 +1,9 @@
+## 11.04.2023.
+- Merged April 2023. Security update
+- Updated selinux and removed neverallow rules to make device more secure
+- Fixed some issues introduced in QPR2
+- Synced with LineageOS source
+
 ## 21.03.2023.
 - Fixed double tap to wake
 
