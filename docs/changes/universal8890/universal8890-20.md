@@ -1,3 +1,7 @@
+## 02.05.2023.
+- Merged May 2023. Security update
+- Synced with LineageOS source
+
 ## 23.04.2023.
 - Switched to more source built components from new Exynos 850/Linaro BSP
     - hwcomposer
