@@ -1,3 +1,24 @@
+## 05.05.2023.
+- Merged May 2023. Security update
+- Misc performance and stability improvements
+- Synced with LineageOS source
+
+## 24.04.2023.
+- Switched to more source built components from new Exynos 850/Linaro BSP
+    - hwcomposer
+    - memtrack
+    - libion_exynos
+    - libGrallocWrapper
+    - gralloc
+    - libcsc
+    - libexynosscaler
+    - libexynosgscaler
+    - libhwjpeg
+    - Whole OMX stack (libOMX.Exynos.*) and stagefrighthw
+- cleaned up source and got rid of libutils vndk32 workaround
+- Performance, stability and battery life improvements
+- Synced with LineageOS source
+
 ## 12.04.2023.
 - Merged April 2023. Security update
 - Synced with LineageOS source
