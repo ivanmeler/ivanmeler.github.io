@@ -1,3 +1,9 @@
+## 08.07.2023.
+- Merged July 2023. Security update
+- Fixed misc issues caused by June pixel feature drop
+- misc performance and stability improvements
+- Synced with LineageOS source
+
 ## 21.06.2023.
 - Merged June 2023. Security update
 - Merged latest pixel feature drop
