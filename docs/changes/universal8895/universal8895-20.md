@@ -1,3 +1,7 @@
+## 10.07.2023.
+- Fixed Bluetooth LE connection
+(wearables, fitnes monitors and such)
+
 ## 08.07.2023.
 - Merged July 2023. Security update
 - Fixed misc issues caused by June pixel feature drop
