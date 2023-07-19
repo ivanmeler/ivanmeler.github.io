@@ -1,3 +1,7 @@
+## 19.07.2023.
+- Fixed issue with fingerprint reader staying active with screen off
+- Synced with LineageOS source
+
 ## 08.07.2023.
 - Merged July 2023. Security update
 - Fixed misc issues caused by June pixel feature drop
