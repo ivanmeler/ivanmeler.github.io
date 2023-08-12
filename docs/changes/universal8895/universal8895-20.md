@@ -1,3 +1,7 @@
+## 09.08.2023.
+- Merged August 2023. Security update
+- Synced with LineageOS source
+
 ## 10.07.2023.
 - Fixed Bluetooth LE connection
 (wearables, fitnes monitors and such)
