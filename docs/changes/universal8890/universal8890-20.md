@@ -1,3 +1,12 @@
+## 19.09.2023.
+- Fixed issues with fp staying always on
+- Merged september 2023 security update
+- Synced with LineageOS source
+
+## 07.08.2023.
+- Merged August 2023. security update
+- Synced with LineageOS source
+
 ## 19.07.2023.
 - Fixed issue with fingerprint reader staying active with screen off
 - Synced with LineageOS source
