@@ -1,3 +1,7 @@
+## 11.10.2023.
+- Merged October 2023. Security Update
+- Synced with LineageOS source
+
 ## 19.09.2023.
 - Fixed issues with fp staying always on
 - Merged september 2023 security update
