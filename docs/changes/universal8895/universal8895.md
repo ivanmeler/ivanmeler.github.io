@@ -1,3 +1,12 @@
+## 12.12.2023.
+- Merged December security update
+- Synced with LineageOS source
+
+## 20.11.2023.
+- Merged November security update
+- Synced with LineageOS source
+- Fixed OTA updates
+
 ## 11.10.2023.
 - Merged October 2023. Security Update
 - Synced with LineageOS source
