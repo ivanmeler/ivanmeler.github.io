@@ -3,7 +3,7 @@
 
 # {{ page.title }} ({{ page.codename }})
 
-{% if device.shipped_version != "Android 6.0" %}
+{% if device.shipped_version != "Android 6.0" and device.codename != "gracerlte" %}
 {% assign ota_url = site.lineage_ota_base_url-21_0 | append: page.codename | append: ".json" %}
 {% fetch builds_raw ota_url %}
 {% json builds builds_raw %}
