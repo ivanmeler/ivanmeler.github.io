@@ -3,6 +3,15 @@
 
 # {{ page.title }} ({{ page.codename }})
 
+{% if device.shipped_version != "Android 6.0" %}
+{% assign ota_url = site.lineage_ota_base_url-21_0 | append: page.codename | append: ".json" %}
+{% fetch builds_raw ota_url %}
+{% json builds builds_raw %}
+{% assign build = builds.response[0] %}
+<a href="{{ build.url }}">Download {{ build.filename }}</a><br>
+<a href="{{ device.xda_210 }}">XDA forum thread for LineageOS-21.0</a><br>
+[Changelog for LineageOS-21.0]({{ "/changes/" | append: page.codename | append: "-21.html" | relative_url }})
+{% endif %}
 
 {% assign ota_url = site.lineage_ota_base_url-20_0 | append: page.codename | append: ".json" %}
 {% fetch builds_raw ota_url %}
