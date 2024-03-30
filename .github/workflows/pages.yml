@@ -22,6 +22,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
+      - name: Set HTTP post buffer
+        run: git config --global http.postBuffer 524288000
+
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: jeffreytse/jekyll-deploy-action@v0.5.1
         with:
