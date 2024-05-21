@@ -1,3 +1,7 @@
+## 21.05.2024.
+- Merged May security update
+- Synced with LineageOS source
+
 ## 21.04.2024.
 - Merged April security update
 - Synced with LineageOS source
