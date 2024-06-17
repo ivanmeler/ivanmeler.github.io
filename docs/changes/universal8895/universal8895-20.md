@@ -1,3 +1,8 @@
+## 17.06.2024.
+- Merged June security update
+- Synced with LineageOS source
+- Builds are now signed for easier play integrity bypassing
+
 ## 21.05.2024.
 - Merged May security update
 - Synced with LineageOS source
