@@ -1,7 +1,7 @@
 # CLEAN FLASH BUILD BELOW, DIRTY UPGRADE IS NOT SUPPORTED
 
 ## 19.06.2024.
-- Builds are not wisgned
+- Builds are now signed
 - Improved UI performance
 - Fied issues with secure apps (banking, seedvault, etc) related to keystore
 - Performance and stability improvements
