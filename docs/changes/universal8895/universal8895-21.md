@@ -3,7 +3,7 @@
 ## 19.06.2024.
 - Builds are now signed
 - Improved UI performance
-- Fied issues with secure apps (banking, seedvault, etc) related to keystore
+- Fixed issues with secure apps (banking, seedvault, etc) related to keystore
 - Performance and stability improvements
 - Merged May security update
 - Synced with LineageOS source
