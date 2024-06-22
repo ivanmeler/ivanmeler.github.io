@@ -5,7 +5,7 @@
 - Added new modern usb hal (userspace and kernel)
 - Fixed issues introduced in QPR2
 - Improved UI performance
-- Fied issues with secure apps (banking, seedvault, etc) related to keystore
+- Fixed issues with secure apps (banking, seedvault, etc) related to keystore
 - Performance and stability improvements
 - Merged May security update
 - Synced with LineageOS source
