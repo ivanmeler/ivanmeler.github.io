@@ -1,3 +1,7 @@
+## 15.08.2024.
+- Merged August security update
+- Synced with LineageOS source
+
 ## 17.07.2024.
 - Merged July security update
 - Fixed Bluetooth in calls
